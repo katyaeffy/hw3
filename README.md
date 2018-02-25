@@ -10,3 +10,5 @@
 
 Ссылка на таблицу с шагом 3
 https://docs.google.com/spreadsheets/d/1CQG0M_a9eg10u35lDGKT2eqM80jCQkC7hsIf3-rKuHY/edit#gid=2012456345
+
+На основе построенных мной диаграмм и проделанных операций 
